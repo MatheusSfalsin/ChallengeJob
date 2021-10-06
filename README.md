@@ -2,8 +2,13 @@
    Desafio NextJS Workfy
   
 <br>
+<h3 align="center">
 
-# Frontend Challenge
+Frontend Challenge
+<br>
+</h3>
+</h1>
+
 Nosso desafio consiste em o usuário ter uma lista de empreendimentos cadastrados. Nesse site deve haver a possibilidade do usuario listar os empreendimentos, criar novos empreendimentos, editar empreendimento, e apagar empreendimento;
 
 Extras: Sera possível também filtrar pelo nome, e ter paginação com limitação de 10 empreendimentos para cada clique em "carregar mais".
