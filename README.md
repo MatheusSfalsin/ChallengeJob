@@ -24,9 +24,7 @@ Para consulta do CEP poderá utilizar API pública [ViaCEP](https://viacep.com.b
 - [ ] Listar Empreendimentos
 - [ ] Criar Empreendimento
 - [ ] Editar Empreendimento
-- [ ] Editar Empreendimento
 - [ ] Deletar Empreendimento
-
 - [ ] Styled-components para construção do layout 
 - [ ] Responsivo
 - [ ] Subir no github, ou bitbucket e afins..
