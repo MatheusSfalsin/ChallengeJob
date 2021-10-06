@@ -11,7 +11,7 @@ Utilize o figma como base para o cadastro e exibição de dados.
 
 Para consulta do CEP poderá utilizar API pública [ViaCEP](https://viacep.com.br/)
 
-### Para pake api: 
+## Para pake api: 
   - yarn add json-serve
   - adicionam o seguinte script no package.json:
     - "server": "json-server --watch enterprises-server.json --port 3001"
