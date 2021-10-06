@@ -1,12 +1,22 @@
 # Frontend Challenge
 Nosso desafio consiste em o usuário ter uma lista de empreendimentos cadastrados. Nesse site deve haver a possibilidade do usuario listar os empreendimentos, criar novos empreendimentos, editar empreendimento, e apagar empreendimento;
 
-Sera possível também filtrar pelo nome, e ter paginação com limitação de 10 empreendimentos para cada clique em "carregar mais".
+Extras: Sera possível também filtrar pelo nome, e ter paginação com limitação de 10 empreendimentos para cada clique em "carregar mais".
 
 Quando possível componentizar o código, indetificando botões e estruturas que se repetem.
 
-Os dados serão servidos via um Fake api fornecida previamente.
+Os dados serão servidos via um Fake api que esta nesse repositório(enterprises-server).
+
 Utilize o figma como base para o cadastro e exibição de dados.
+
+Para consulta do CEP poderá utilizar API pública [ViaCEP](https://viacep.com.br/)
+
+### Para pake api: 
+  - yarn add json-serve
+  - adicionam o seguinte script no package.json:
+    - "server": "json-server --watch enterprises-server.json --port 3001"
+  - Rodar server: yarn server
+  - estará rodando em http://localhost:3001/
 
 ## Criar uma aplicação NextJS
 - [ ] Rodar na web
@@ -16,9 +26,15 @@ Utilize o figma como base para o cadastro e exibição de dados.
 - [ ] Editar Empreendimento
 - [ ] Editar Empreendimento
 - [ ] Deletar Empreendimento
-- [ ] Filtrar pelo nome do empreendimento.
+
 - [ ] Styled-components para construção do layout 
 - [ ] Responsivo
 - [ ] Subir no github, ou bitbucket e afins..
+
+## Extras
+- [ ] Utilizar o getServerSideProps
+- [ ] utilizar o axios
+- [ ] Filtrar pelo nome do empreendimento.
+- [ ] Paginação.
 
 Encaminhar projeto concluido com assunto: "Challenge" para: hello@vix.dev
