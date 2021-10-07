@@ -1,5 +1,5 @@
 <h1 align="center">
-   Desafio NextJS Workfy
+   Desafio NextJS
   
 <br>
 <h3 align="center">
