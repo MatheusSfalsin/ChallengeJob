@@ -37,7 +37,7 @@ Para consulta do CEP poderá utilizar API pública [ViaCEP](https://viacep.com.b
 - [ ] Deletar Empreendimento
 - [ ] Styled-components para construção do layout 
 - [ ] Responsivo
-- [ ] Subir no github, ou bitbucket e afins..
+- [ ] Subir no github
 
 ## Extras
 - [ ] Utilizar o getServerSideProps
