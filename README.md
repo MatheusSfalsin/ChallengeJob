@@ -44,5 +44,3 @@ Para consulta do CEP poderá utilizar API pública [ViaCEP](https://viacep.com.b
 - [ ] utilizar o axios
 - [ ] Filtrar pelo nome do empreendimento.
 - [ ] Paginação.
-
-Encaminhar projeto concluido com assunto: "Challenge" para: hello@vix.dev
