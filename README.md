@@ -38,8 +38,10 @@ Para consulta do CEP poderá utilizar API pública [ViaCEP](https://viacep.com.b
 - [ ] Styled-components para construção do layout 
 - [ ] Responsivo
 - [ ] Subir no github
+- [ ] Ser publicado na Vercel
 
-## Extras
+## Ideias de melhorias
+- [ ] Feedback de ações (Sucesso, falha etc)
 - [ ] Utilizar o getServerSideProps
 - [ ] utilizar o axios
 - [ ] Filtrar pelo nome do empreendimento.
